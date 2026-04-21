@@ -80,7 +80,3 @@ Project ini dibuat untuk pembelajaran CRUD menggunakan Laravel.
 git add README.md
 git commit -m "add README"
 git push origin main
-
-Kalau mau, aku juga bisa:
-✔ bikin README versi lebih keren (pakai badge & screenshot)
-✔ atau rapikan repo kamu biar terlihat seperti project profesional 👍
